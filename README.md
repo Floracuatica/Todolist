@@ -2,7 +2,7 @@
 
 **Desarrollado por:** Rommy Bejar  
 **Lenguaje principal:** JavaScript  
-**Repositorio:** 
+**Repositorio:** https://github.com/Floracuatica/Todolist
 
 ---
 
