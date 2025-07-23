@@ -43,5 +43,37 @@ Gracias a JavaScript, los sitios web pueden:
 
 ---
 
+## 🔄 Flujo del código y estructuras utilizadas
 
+- **Variables** para almacenar tareas y elementos del DOM.
+- **Condicionales (`if`)** para validar tareas vacías.
+- **Arreglos** para almacenar y recorrer las tareas.
+- **Sentencias iterativas (`forEach`)** para mostrar tareas dinámicamente.
+- **Funciones reutilizables** para mantener el código modular:
+  - `agregarTarea()`
+  - `eliminarTarea()`
+  - `mostrarTareas()`
+- **Objetos nativos (`Date`, `Math`)** para enriquecer los datos.
 
+---
+
+## 📌 Lo puedes ver en:   https://todolist-omega-sandy.vercel.app/
+
+⚠️ **Nota:** Este proyecto no guarda las tareas luego de cerrar o recargar la página, según lo solicitado en la evaluación.
+
+---
+
+## 🗂️ Gestión en GitHub
+
+- Estructura clara por archivos.
+- Commits frecuentes y descriptivos.
+- Explicación en README.md sobre lógica y tecnologías usadas.
+
+---
+
+## 💬 Comentarios finales
+
+Este proyecto representa el uso concreto de **JavaScript puro** para controlar el flujo de datos, responder a acciones del usuario y manipular el DOM.  
+Fue desarrollado con especial cuidado en la estructura del código, el uso de funciones reutilizables y buenas prácticas.
+
+**Gracias por visitar este proyecto.**
